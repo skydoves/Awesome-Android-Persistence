@@ -1,4 +1,4 @@
-# Awesome Android Persistence
+# Awesome Android Persistence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome android persistence libraries about SQLite, ORM, Mobile Database, SharedPreferences, etc.
 
 ## Awesome Repositories
@@ -36,8 +36,8 @@ Repository | Description
 [Secured-Preference-Store](https://github.com/iamMehedi/Secured-Preference-Store) | A cryptography library and a SharedPreferences wrapper for Android that encrypts the content with 256 bit AES encryption. The Encryption key is securely stored in device's KeyStore.
 [Tray](https://github.com/grandcentrix/tray) | A SharedPreferences replacement for Android with multiprocess support.
 
-## Contributuons
-Your contributions are always welcome!
+## Contribution
+Your contributions are always welcome! [Contribution Guide](https://github.com/skydoves/Awesome-Android-Persistence/blob/master/contributing.md)
 
 ## Share
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20curated%20list%20of%20awesome%20android%20persistence%20libraries%20about%20SQLite,%20ORM,%20Mobile%20Database,%20SharedPreferences,%20etc.%20&url=https://github.com/skydoves/Awesome-Android-Persistence)
