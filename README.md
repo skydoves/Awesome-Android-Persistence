@@ -11,6 +11,7 @@ Repository | Description
 [Android Storage](https://github.com/sromku/android-storage) | Create, read, delete, append, encrypt files and more, on internal or external disk spaces with a really simple API.
 [Conceal](https://github.com/facebook/conceal) | Conceal provides easy Android APIs for performing fast encryption and authentication of data.
 [Couchbase-lite-android](https://github.com/couchbase/couchbase-lite-android) | Lightweight, embedded, syncable NoSQL database engine for Android.
+[ConserveORM](https://github.com/ConserveORM/main) | A library for storing your Java/Scala/Kotlin objects in a database.
 [DBFlow](https://github.com/Raizlabs/DBFlow) | A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
 [EncryptedPreferences](https://github.com/PDDStudio/EncryptedPreferences) | AES-256 encrypted SharedPreferences for Android.
 [GreenDao](https://github.com/greenrobot/greenDAO) | greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
@@ -20,7 +21,7 @@ Repository | Description
 [ObjectBox](https://github.com/objectbox/objectbox-java) | ObjectBox is a superfast mobile database for objects.
 [Ormlite-android](https://github.com/j256/ormlite-android) | ORMLite Android functionality used in conjunction with ormlite-core.
 [Paper](https://github.com/pilgr/Paper) | Paper is a fast NoSQL-like storage for Java/Kotlin objects on Android with automatic schema migration support.
-[PreferenceRoom](https://github.com/skydoves/PreferenceRoom) | :house_with_garden: Manage your android project's SharedPreferences more efficiently.
+[PreferenceRoom](https://github.com/skydoves/PreferenceRoom) | Manage your android project's SharedPreferences more efficiently.
 [PersistentCookieJar](https://github.com/franmontiel/PersistentCookieJar) | A persistent CookieJar implementation for OkHttp 3 based on SharedPreferences.
 [Realm](https://github.com/realm/realm-java) | Realm is a mobile database: a replacement for SQLite & ORMs.
 [Room Persistence](https://developer.android.com/topic/libraries/architecture/room) | The Room persistence library provides an abstraction layer over SQLite to allow for more robust database access while harnessing the full power of SQLite.
