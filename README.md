@@ -1,4 +1,4 @@
-# Awesome Android Persistence [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Android Persistence
 A curated list of awesome android persistence libraries about SQLite, ORM, Mobile Database, SharedPreferences, etc.
 
 ## Awesome Repositories
