@@ -10,7 +10,7 @@ A curated list of awesome android persistence libraries about SQLite, ORM, Mobil
 - [SharedPreferences](#sharedpreferences)
 - [Storage](#storage)
 - [Cryptography](#cryptography)
-- [Debbuging](#debbuging)
+- [Debugging](#debugging)
 
 
 ## SQLite
@@ -68,7 +68,7 @@ A curated list of awesome android persistence libraries about SQLite, ORM, Mobil
 - [Hawk](https://github.com/orhanobut/hawk) - Secure, simple key-value storage for Android.
 - [Secured-Preference-Store](https://github.com/iamMehedi/Secured-Preference-Store) - A cryptography library and a SharedPreferences wrapper for Android that encrypts the content with 256 bit AES encryption. The Encryption key is securely stored in device's KeyStore.
 
-## Debbuging
+## Debugging
 
 - [Android DbInspector](https://github.com/infinum/android_dbinspector) - Android library for viewing and sharing in app databases.
 - [Stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
