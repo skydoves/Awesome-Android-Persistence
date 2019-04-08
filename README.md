@@ -32,6 +32,7 @@ Repository | Description
 [Storio](https://github.com/pushtorefresh/storio) | Reactive API for SQLiteDatabase and ContentResolver.
 [Sugar](https://github.com/chennaione/sugar) | Insanely easy way to work with Android Database.
 [Squidb](https://github.com/yahoo/squidb) | SquiDB is a SQLite database library for Android and iOS.
+[Sqldelight](https://github.com/square/sqldelight) | SQLDelight generates typesafe APIs from your SQL statements.
 [Sqlite-android](https://github.com/requery/sqlite-android) | Android SQLite support library.
 [Secured-Preference-Store](https://github.com/iamMehedi/Secured-Preference-Store) | A cryptography library and a SharedPreferences wrapper for Android that encrypts the content with 256 bit AES encryption. The Encryption key is securely stored in device's KeyStore.
 [Tray](https://github.com/grandcentrix/tray) | A SharedPreferences replacement for Android with multiprocess support.
