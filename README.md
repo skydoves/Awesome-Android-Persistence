@@ -34,6 +34,7 @@ A curated list of awesome android persistence libraries about SQLite, ORM, Mobil
 - [GreenDao](https://github.com/greenrobot/greenDAO) - greenDAO is a light & fast ORM solution for Android that maps objects to SQLite databases.
 - [Ormlite-android](https://github.com/j256/ormlite-android) - ORMLite Android functionality used in conjunction with ormlite-core.
 - [Realm](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs.
+- [Realm-Extension](https://github.com/vicpinm/Kotlin-Realm-Extensions) - Simplify code to its minimum expression with this set of Kotlin extensions for Realm.
 - [Sugar](https://github.com/chennaione/sugar) - Insanely easy way to work with Android Database.
 
 
