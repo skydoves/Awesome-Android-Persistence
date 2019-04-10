@@ -74,15 +74,6 @@ A curated list of awesome android persistence libraries about SQLite, ORM, Mobil
 - [Android DbInspector](https://github.com/infinum/android_dbinspector) - Android library for viewing and sharing in app databases.
 - [Stetho](https://github.com/facebook/stetho) - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 
-
-## Contribution
-Your contributions are always welcome! [Contribution Guidelines](https://github.com/skydoves/Awesome-Android-Persistence/blob/master/contributing.md)
-
-
-## Share
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20curated%20list%20of%20awesome%20android%20persistence%20libraries%20about%20SQLite,%20ORM,%20Mobile%20Database,%20SharedPreferences,%20etc.%20&url=https://github.com/skydoves/Awesome-Android-Persistence)
-
-
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
